@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Revolve</string>
+    <string name="how_to_play">Tap the screen when the ball hits a target.</string>
+    <string name="baseURL">http://cs.csub.edu/~akoumane/3390/project/HighScores.php</string>
+    <string name="gameOver">Game Over!</string>
+    <string name="score">Final Score:</string>
+    <string name="Accuracy">Accuracy:</string>
+    <string name="enterName">Enter your name to submit your score!</string>
+</resources>
